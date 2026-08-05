@@ -1,0 +1,123 @@
+State,City,Station_Name,Station_Type,Charger_Type,Status,Customer_Rating,Avg_Wait_Time_Min,Queue_Length,Recommendation,Recommendation_Score
+Uttar Pradesh,Lucknow,Lucknow Ev Hub 3,Highway,Dc,Active,4.25,17.816666666666666,5.5,Highly Recommended,236.86666666666667
+Kerala,Thiruvananthapuram,Thiruvananthapuram Ev Hub 1,Highway,Dc,Active,4.2283333333333335,17.566666666666666,5.4,Highly Recommended,234.71666666666667
+Gujarat,Ahmedabad,Ahmedabad Ev Hub 2,Private,Ac,Active,4.205,18.4,5.5,Highly Recommended,231.35000000000002
+Gujarat,Ahmedabad,Ahmedabad Ev Hub 1,Highway,Dc,Active,4.171666666666667,17.916666666666668,5.7,Highly Recommended,228.81666666666666
+Maharashtra,Nagpur,Nagpur Ev Hub 2,Public,Mixed,Active,4.223333333333334,17.6,5.35,Highly Recommended,227.0
+Telangana,Nizamabad,Nizamabad Ev Hub 2,Private,Mixed,Active,4.251666666666667,17.683333333333334,5.65,Highly Recommended,222.68333333333334
+Maharashtra,Mumbai,Mumbai Ev Hub 2,Private,Ac,Active,4.1033333333333335,17.216666666666665,5.35,Highly Recommended,221.66666666666669
+Rajasthan,Udaipur,Udaipur Ev Hub 3,Private,Ac,Active,4.163333333333333,17.7,5.3,Highly Recommended,220.0
+Gujarat,Vadodara,Vadodara Ev Hub 5,Highway,Mixed,Active,4.233333333333333,18.4,5.883333333333334,Recommended,218.2
+Uttar Pradesh,Lucknow,Lucknow Ev Hub 2,Private,Ac,Active,4.206666666666667,16.783333333333335,5.05,Recommended,217.63333333333335
+West Bengal,Siliguri,Siliguri Ev Hub 1,Public,Dc,Active,4.221666666666667,17.383333333333333,5.216666666666667,Recommended,216.88333333333333
+West Bengal,Howrah,Howrah Ev Hub 2,Highway,Mixed,Active,4.23,18.1,5.75,Recommended,216.7
+Uttar Pradesh,Kanpur,Kanpur Ev Hub 4,Private,Ac,Active,4.196666666666667,18.033333333333335,5.35,Recommended,215.83333333333334
+Gujarat,Surat,Surat Ev Hub 5,Public,Dc,Active,4.208333333333333,17.25,5.466666666666667,Recommended,215.25
+Telangana,Nizamabad,Nizamabad Ev Hub 5,Highway,Mixed,Active,4.14,17.4,5.483333333333333,Recommended,213.89999999999998
+West Bengal,Kolkata,Kolkata Ev Hub 1,Public,Dc,Active,4.288333333333333,17.8,5.55,Recommended,213.55
+Uttar Pradesh,Lucknow,Lucknow Ev Hub 1,Highway,Ac,Active,4.2283333333333335,17.433333333333334,5.683333333333334,Recommended,212.98333333333335
+Kerala,Kozhikode,Kozhikode Ev Hub 2,Private,Ac,Active,4.21,17.566666666666666,5.616666666666666,Recommended,212.16666666666666
+Karnataka,Hubballi,Hubballi Ev Hub 3,Public,Dc,Active,4.248333333333333,18.183333333333334,5.65,Recommended,212.08333333333331
+Karnataka,Mysuru,Mysuru Ev Hub 1,Private,Mixed,Active,4.2,18.516666666666666,5.716666666666667,Recommended,209.46666666666667
+Maharashtra,Pune,Pune Ev Hub 1,Private,Mixed,Active,4.2,17.9,5.633333333333334,Recommended,208.7
+Telangana,Nizamabad,Nizamabad Ev Hub 3,Private,Ac,Active,4.161666666666666,17.6,5.816666666666666,Recommended,208.64999999999998
+Karnataka,Mangaluru,Mangaluru Ev Hub 2,Private,Dc,Active,4.215,17.966666666666665,5.566666666666666,Recommended,208.51666666666665
+Maharashtra,Mumbai,Mumbai Ev Hub 3,Public,Mixed,Active,4.168333333333333,17.116666666666667,5.316666666666666,Recommended,208.31666666666666
+Tamil Nadu,Coimbatore,Coimbatore Ev Hub 2,Public,Mixed,Active,4.221666666666667,17.8,5.45,Recommended,208.05
+Tamil Nadu,Coimbatore,Coimbatore Ev Hub 4,Private,Mixed,Active,4.193333333333333,17.666666666666668,5.583333333333333,Recommended,207.46666666666667
+Maharashtra,Mumbai,Mumbai Ev Hub 1,Private,Ac,Active,4.236666666666666,18.0,5.716666666666667,Recommended,207.1
+Gujarat,Surat,Surat Ev Hub 1,Public,Dc,Active,4.168333333333333,18.433333333333334,5.883333333333334,Recommended,206.6833333333333
+West Bengal,Kolkata,Kolkata Ev Hub 3,Public,Dc,Active,4.191666666666666,16.916666666666668,5.216666666666667,Recommended,206.41666666666666
+Tamil Nadu,Salem,Salem Ev Hub 1,Private,Dc,Active,4.136666666666667,17.65,5.533333333333333,Recommended,205.8
+Telangana,Warangal,Warangal Ev Hub 2,Private,Mixed,Active,4.223333333333334,18.466666666666665,5.766666666666667,Recommended,205.76666666666668
+Kerala,Kochi,Kochi Ev Hub 2,Private,Ac,Active,4.251666666666667,16.933333333333334,5.633333333333334,Recommended,205.18333333333334
+Gujarat,Vadodara,Vadodara Ev Hub 1,Private,Ac,Active,4.175,17.066666666666666,5.366666666666666,Recommended,205.11666666666667
+Telangana,Warangal,Warangal Ev Hub 1,Public,Dc,Active,4.216666666666667,17.8,5.783333333333333,Recommended,203.4
+Gujarat,Rajkot,Rajkot Ev Hub 1,Highway,Dc,Active,4.128333333333333,17.816666666666666,5.883333333333334,Recommended,203.21666666666667
+Karnataka,Hubballi,Hubballi Ev Hub 2,Public,Ac,Active,4.178333333333333,18.5,5.75,Recommended,202.84999999999997
+Telangana,Hyderabad,Hyderabad Ev Hub 5,Highway,Dc,Active,4.1883333333333335,17.666666666666668,5.65,Recommended,202.81666666666666
+Gujarat,Rajkot,Rajkot Ev Hub 2,Public,Ac,Active,4.2283333333333335,17.883333333333333,5.383333333333334,Recommended,202.08333333333334
+Uttar Pradesh,Agra,Agra Ev Hub 1,Private,Dc,Active,4.075,17.233333333333334,5.633333333333334,Recommended,201.78333333333333
+Karnataka,Mangaluru,Mangaluru Ev Hub 5,Public,Mixed,Active,4.17,17.333333333333332,5.616666666666666,Recommended,201.43333333333334
+Telangana,Warangal,Warangal Ev Hub 4,Private,Ac,Active,4.233333333333333,17.35,5.483333333333333,Recommended,200.8
+Telangana,Hyderabad,Hyderabad Ev Hub 1,Highway,Mixed,Active,4.261666666666667,18.583333333333332,5.883333333333334,Recommended,200.68333333333334
+Gujarat,Ahmedabad,Ahmedabad Ev Hub 3,Public,Mixed,Active,4.215,17.9,5.583333333333333,Recommended,200.64999999999998
+Uttar Pradesh,Agra,Agra Ev Hub 3,Highway,Dc,Active,4.255,17.033333333333335,5.633333333333334,Recommended,200.58333333333331
+Karnataka,Bengaluru,Bengaluru Ev Hub 5,Highway,Dc,Active,4.131666666666667,18.316666666666666,5.433333333333334,Recommended,200.31666666666666
+Uttar Pradesh,Kanpur,Kanpur Ev Hub 2,Public,Dc,Active,4.17,18.233333333333334,5.75,Recommended,199.63333333333333
+Karnataka,Mysuru,Mysuru Ev Hub 3,Public,Mixed,Active,4.1883333333333335,18.2,5.8,Recommended,199.25
+Uttar Pradesh,Kanpur,Kanpur Ev Hub 5,Public,Dc,Active,4.285,17.883333333333333,5.65,Recommended,198.78333333333336
+Tamil Nadu,Chennai,Chennai Ev Hub 1,Private,Ac,Active,4.238333333333333,18.316666666666666,5.983333333333333,Recommended,198.51666666666668
+Uttar Pradesh,Varanasi,Varanasi Ev Hub 4,Highway,Ac,Active,4.185,17.633333333333333,5.383333333333334,Recommended,198.2833333333333
+Gujarat,Rajkot,Rajkot Ev Hub 5,Public,Mixed,Active,4.1883333333333335,17.066666666666666,5.616666666666666,Recommended,198.01666666666668
+Kerala,Kozhikode,Kozhikode Ev Hub 1,Private,Ac,Active,4.168333333333333,18.5,5.55,Recommended,197.04999999999998
+Gujarat,Rajkot,Rajkot Ev Hub 4,Highway,Dc,Active,4.1466666666666665,17.45,5.75,Recommended,196.5
+Maharashtra,Nagpur,Nagpur Ev Hub 4,Highway,Mixed,Active,4.1466666666666665,17.266666666666666,5.566666666666666,Recommended,196.36666666666667
+Telangana,Nizamabad,Nizamabad Ev Hub 4,Highway,Dc,Active,4.156666666666667,17.566666666666666,5.516666666666667,Recommended,196.0666666666667
+Tamil Nadu,Madurai,Madurai Ev Hub 2,Highway,Ac,Active,4.145,17.666666666666668,5.316666666666666,Recommended,196.01666666666665
+Uttar Pradesh,Varanasi,Varanasi Ev Hub 1,Public,Ac,Active,4.138333333333334,17.633333333333333,5.65,Recommended,195.88333333333333
+Karnataka,Mangaluru,Mangaluru Ev Hub 4,Highway,Mixed,Active,4.181666666666667,18.1,5.733333333333333,Recommended,195.75
+Telangana,Hyderabad,Hyderabad Ev Hub 2,Public,Ac,Active,4.218333333333333,17.483333333333334,5.433333333333334,Recommended,195.58333333333331
+Kerala,Thiruvananthapuram,Thiruvananthapuram Ev Hub 2,Private,Dc,Active,4.13,17.8,5.416666666666667,Recommended,195.29999999999998
+Uttar Pradesh,Agra,Agra Ev Hub 2,Highway,Mixed,Active,4.126666666666667,18.133333333333333,5.75,Recommended,195.03333333333336
+Rajasthan,Jaipur,Jaipur Ev Hub 2,Highway,Mixed,Active,4.203333333333333,17.416666666666668,5.566666666666666,Recommended,194.26666666666665
+Maharashtra,Nagpur,Nagpur Ev Hub 5,Private,Ac,Active,4.281666666666666,16.566666666666666,5.383333333333334,Recommended,193.81666666666666
+Karnataka,Bengaluru,Bengaluru Ev Hub 4,Public,Ac,Active,4.180000000000001,17.833333333333332,5.466666666666667,Recommended,193.73333333333335
+Rajasthan,Udaipur,Udaipur Ev Hub 4,Public,Dc,Active,4.276666666666667,17.833333333333332,5.716666666666667,Recommended,193.63333333333335
+Uttar Pradesh,Varanasi,Varanasi Ev Hub 2,Highway,Dc,Active,4.208333333333333,17.766666666666666,5.666666666666667,Recommended,192.71666666666664
+Karnataka,Hubballi,Hubballi Ev Hub 1,Highway,Ac,Active,4.3,17.666666666666668,5.7,Recommended,192.66666666666666
+Uttar Pradesh,Varanasi,Varanasi Ev Hub 3,Private,Dc,Active,4.173333333333334,17.566666666666666,5.416666666666667,Recommended,192.5666666666667
+Rajasthan,Jodhpur,Jodhpur Ev Hub 1,Public,Dc,Active,4.238333333333333,16.85,5.133333333333334,Recommended,191.95
+Karnataka,Bengaluru,Bengaluru Ev Hub 1,Highway,Mixed,Active,4.158333333333333,18.2,6.016666666666667,Recommended,191.35
+Kerala,Kochi,Kochi Ev Hub 3,Highway,Dc,Active,4.17,17.916666666666668,5.866666666666666,Recommended,191.26666666666665
+Maharashtra,Nashik,Nashik Ev Hub 3,Private,Ac,Active,4.161666666666666,17.633333333333333,5.416666666666667,Recommended,191.08333333333331
+Telangana,Warangal,Warangal Ev Hub 5,Private,Ac,Active,4.131666666666667,18.216666666666665,5.6,Recommended,191.01666666666668
+Karnataka,Mysuru,Mysuru Ev Hub 2,Public,Ac,Active,4.133333333333334,17.866666666666667,5.45,Recommended,190.76666666666668
+Telangana,Hyderabad,Hyderabad Ev Hub 3,Private,Mixed,Active,4.156666666666667,18.316666666666666,5.766666666666667,Recommended,190.5666666666667
+Rajasthan,Jaipur,Jaipur Ev Hub 1,Public,Mixed,Active,4.323333333333333,17.783333333333335,5.55,Recommended,189.63333333333333
+Karnataka,Mysuru,Mysuru Ev Hub 4,Private,Mixed,Active,4.241666666666666,17.45,5.233333333333333,Recommended,188.85
+Telangana,Hyderabad,Hyderabad Ev Hub 4,Highway,Dc,Active,4.221666666666667,18.2,5.7,Recommended,187.75
+Gujarat,Vadodara,Vadodara Ev Hub 4,Private,Dc,Active,4.206666666666667,17.8,5.633333333333334,Recommended,187.60000000000002
+Maharashtra,Nashik,Nashik Ev Hub 2,Private,Ac,Active,4.198333333333333,17.4,5.566666666666666,Recommended,186.65
+Kerala,Kozhikode,Kozhikode Ev Hub 4,Highway,Ac,Active,4.213333333333333,17.666666666666668,5.433333333333334,Recommended,186.56666666666666
+Tamil Nadu,Chennai,Chennai Ev Hub 2,Public,Ac,Active,4.2,18.016666666666666,5.583333333333333,Recommended,186.46666666666667
+Karnataka,Bengaluru,Bengaluru Ev Hub 3,Highway,Mixed,Active,4.158333333333333,18.65,5.933333333333334,Recommended,186.45
+Rajasthan,Udaipur,Udaipur Ev Hub 1,Public,Ac,Active,4.161666666666666,16.8,5.733333333333333,Recommended,186.24999999999997
+Tamil Nadu,Salem,Salem Ev Hub 2,Public,Mixed,Active,4.176666666666667,17.033333333333335,5.533333333333333,Recommended,186.23333333333332
+Uttar Pradesh,Kanpur,Kanpur Ev Hub 1,Private,Mixed,Active,4.171666666666666,18.033333333333335,5.7,Recommended,186.08333333333331
+Kerala,Thiruvananthapuram,Thiruvananthapuram Ev Hub 4,Public,Dc,Active,4.13,18.466666666666665,5.583333333333333,Recommended,185.96666666666667
+Karnataka,Bengaluru,Bengaluru Ev Hub 2,Private,Dc,Active,4.17,18.366666666666667,5.816666666666666,Recommended,185.86666666666667
+Kerala,Kochi,Kochi Ev Hub 1,Public,Dc,Active,4.148333333333333,18.35,5.766666666666667,Recommended,185.75
+Gujarat,Rajkot,Rajkot Ev Hub 3,Public,Dc,Active,4.133333333333334,17.1,5.3,Recommended,185.3
+Gujarat,Vadodara,Vadodara Ev Hub 3,Highway,Ac,Active,4.163333333333333,17.566666666666666,5.25,Recommended,185.26666666666665
+Maharashtra,Pune,Pune Ev Hub 2,Public,Ac,Active,4.1466666666666665,17.85,5.65,Recommended,184.2
+West Bengal,Kolkata,Kolkata Ev Hub 2,Highway,Dc,Active,4.17,17.85,5.666666666666667,Recommended,183.89999999999998
+Karnataka,Mangaluru,Mangaluru Ev Hub 3,Private,Dc,Active,4.26,17.983333333333334,5.366666666666666,Recommended,183.83333333333331
+Karnataka,Hubballi,Hubballi Ev Hub 5,Private,Ac,Active,4.245,18.7,6.0,Recommended,183.45000000000002
+Tamil Nadu,Coimbatore,Coimbatore Ev Hub 3,Private,Ac,Active,4.283333333333333,18.566666666666666,5.45,Recommended,183.36666666666667
+Maharashtra,Nashik,Nashik Ev Hub 4,Private,Dc,Active,4.180000000000001,17.883333333333333,5.533333333333333,Recommended,182.63333333333335
+Karnataka,Hubballi,Hubballi Ev Hub 4,Highway,Ac,Active,4.1433333333333335,18.016666666666666,5.7,Recommended,182.26666666666668
+Rajasthan,Jodhpur,Jodhpur Ev Hub 2,Highway,Mixed,Active,4.2316666666666665,18.1,5.466666666666667,Recommended,181.75
+Tamil Nadu,Coimbatore,Coimbatore Ev Hub 1,Private,Mixed,Active,4.243333333333333,17.566666666666666,5.533333333333333,Recommended,181.66666666666666
+Telangana,Warangal,Warangal Ev Hub 3,Public,Ac,Active,4.148333333333333,18.033333333333335,5.733333333333333,Recommended,181.38333333333333
+Kerala,Thiruvananthapuram,Thiruvananthapuram Ev Hub 5,Public,Dc,Active,4.213333333333334,18.383333333333333,5.75,Recommended,181.13333333333335
+Rajasthan,Jodhpur,Jodhpur Ev Hub 3,Highway,Mixed,Active,4.245,17.65,5.433333333333334,Recommended,180.55
+Gujarat,Vadodara,Vadodara Ev Hub 2,Private,Ac,Active,4.183333333333334,17.583333333333332,5.433333333333334,Recommended,179.83333333333334
+Kerala,Kozhikode,Kozhikode Ev Hub 3,Highway,Dc,Active,4.154999999999999,18.2,5.433333333333334,Recommended,179.74999999999997
+Karnataka,Mangaluru,Mangaluru Ev Hub 1,Highway,Mixed,Active,4.131666666666667,18.05,5.466666666666667,Recommended,179.35
+Tamil Nadu,Madurai,Madurai Ev Hub 3,Private,Ac,Active,4.180000000000001,17.766666666666666,5.466666666666667,Recommended,178.36666666666667
+Rajasthan,Jaipur,Jaipur Ev Hub 3,Public,Mixed,Active,4.1466666666666665,16.833333333333332,5.45,Recommended,178.23333333333332
+West Bengal,Howrah,Howrah Ev Hub 1,Highway,Mixed,Active,4.23,17.283333333333335,5.516666666666667,Recommended,177.33333333333334
+Gujarat,Surat,Surat Ev Hub 2,Highway,Mixed,Active,4.255,18.133333333333333,5.8,Recommended,176.88333333333333
+West Bengal,Siliguri,Siliguri Ev Hub 2,Public,Dc,Active,4.141666666666667,16.866666666666667,4.966666666666667,Recommended,176.51666666666665
+Rajasthan,Udaipur,Udaipur Ev Hub 2,Highway,Mixed,Active,4.216666666666667,18.183333333333334,5.766666666666667,Recommended,176.13333333333333
+Gujarat,Surat,Surat Ev Hub 3,Highway,Mixed,Active,4.203333333333333,17.783333333333335,5.916666666666667,Recommended,175.53333333333333
+Maharashtra,Nashik,Nashik Ev Hub 1,Public,Mixed,Active,4.251666666666667,17.55,5.45,Recommended,174.95000000000002
+Telangana,Nizamabad,Nizamabad Ev Hub 1,Public,Ac,Active,4.128333333333333,18.15,5.683333333333334,Recommended,173.55
+Uttar Pradesh,Lucknow,Lucknow Ev Hub 4,Private,Mixed,Active,4.176666666666667,17.516666666666666,5.45,Recommended,172.76666666666665
+Uttar Pradesh,Kanpur,Kanpur Ev Hub 3,Highway,Mixed,Active,4.151666666666666,18.616666666666667,5.766666666666667,Average,169.31666666666666
+Gujarat,Surat,Surat Ev Hub 4,Highway,Mixed,Active,4.193333333333333,18.216666666666665,5.883333333333334,Average,168.86666666666667
+Maharashtra,Nagpur,Nagpur Ev Hub 3,Private,Mixed,Active,4.191666666666666,18.233333333333334,5.733333333333333,Average,168.28333333333333
+Tamil Nadu,Madurai,Madurai Ev Hub 1,Public,Mixed,Active,4.191666666666666,17.933333333333334,5.4,Average,167.88333333333333
+Maharashtra,Nagpur,Nagpur Ev Hub 1,Highway,Mixed,Active,4.161666666666666,17.883333333333333,5.483333333333333,Average,167.58333333333331
+Kerala,Thiruvananthapuram,Thiruvananthapuram Ev Hub 3,Private,Mixed,Active,4.151666666666666,17.716666666666665,5.633333333333334,Average,166.11666666666667

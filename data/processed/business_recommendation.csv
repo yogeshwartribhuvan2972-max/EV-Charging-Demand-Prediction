@@ -1,0 +1,33 @@
+State,City,Priority,Infrastructure_Action,Fast_Charger_Action,Maintenance_Action,Investment_Priority
+Gujarat,Ahmedabad,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+Gujarat,Rajkot,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Schedule Preventive Maintenance,Planned Investment
+Gujarat,Surat,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Schedule Preventive Maintenance,Planned Investment
+Gujarat,Vadodara,High,Expand Charging Infrastructure,Current Fast Charger Capacity is Sufficient,Immediate Preventive Maintenance,Immediate Investment
+Karnataka,Bengaluru,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Schedule Preventive Maintenance,Planned Investment
+Karnataka,Hubballi,High,Expand Charging Infrastructure,Install Additional Fast Chargers,Immediate Preventive Maintenance,Immediate Investment
+Karnataka,Mangaluru,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Schedule Preventive Maintenance,Regular Monitoring
+Karnataka,Mysuru,High,Expand Charging Infrastructure,Install Additional Fast Chargers,Immediate Preventive Maintenance,Immediate Investment
+Kerala,Kochi,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+Kerala,Kozhikode,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Schedule Preventive Maintenance,Regular Monitoring
+Kerala,Thiruvananthapuram,High,Expand Charging Infrastructure,Install Additional Fast Chargers,Immediate Preventive Maintenance,Immediate Investment
+Maharashtra,Mumbai,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+Maharashtra,Nagpur,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Schedule Preventive Maintenance,Regular Monitoring
+Maharashtra,Nashik,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Schedule Preventive Maintenance,Regular Monitoring
+Maharashtra,Pune,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+Rajasthan,Jaipur,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+Rajasthan,Jodhpur,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+Rajasthan,Udaipur,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+Tamil Nadu,Chennai,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+Tamil Nadu,Coimbatore,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+Tamil Nadu,Madurai,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+Tamil Nadu,Salem,Medium,Increase Existing Charging Capacity,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Planned Investment
+Telangana,Hyderabad,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Schedule Preventive Maintenance,Planned Investment
+Telangana,Nizamabad,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Schedule Preventive Maintenance,Planned Investment
+Telangana,Warangal,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Schedule Preventive Maintenance,Planned Investment
+Uttar Pradesh,Agra,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+Uttar Pradesh,Kanpur,High,Expand Charging Infrastructure,Install Additional Fast Chargers,Immediate Preventive Maintenance,Immediate Investment
+Uttar Pradesh,Lucknow,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Schedule Preventive Maintenance,Regular Monitoring
+Uttar Pradesh,Varanasi,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+West Bengal,Howrah,Medium,Increase Existing Charging Capacity,Install Additional Fast Chargers,Routine Maintenance,Planned Investment
+West Bengal,Kolkata,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring
+West Bengal,Siliguri,Low,Maintain Current Infrastructure,Current Fast Charger Capacity is Sufficient,Routine Maintenance,Regular Monitoring

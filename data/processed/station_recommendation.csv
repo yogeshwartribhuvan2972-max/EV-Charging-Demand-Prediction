@@ -1,0 +1,33 @@
+State,City,Need_New_Station,Need_Fast_Charger,Maintenance_Required,Priority
+Gujarat,Ahmedabad,No,Yes,No,Medium
+Gujarat,Rajkot,No,Yes,Yes,Medium
+Gujarat,Surat,No,Yes,Yes,Medium
+Gujarat,Vadodara,Yes,No,Yes,High
+Karnataka,Bengaluru,No,Yes,Yes,Medium
+Karnataka,Hubballi,Yes,Yes,Yes,High
+Karnataka,Mangaluru,No,No,Yes,Low
+Karnataka,Mysuru,Yes,Yes,Yes,High
+Kerala,Kochi,No,Yes,No,Medium
+Kerala,Kozhikode,No,No,Yes,Low
+Kerala,Thiruvananthapuram,Yes,Yes,Yes,High
+Maharashtra,Mumbai,No,No,No,Low
+Maharashtra,Nagpur,No,No,Yes,Low
+Maharashtra,Nashik,No,No,Yes,Low
+Maharashtra,Pune,No,Yes,No,Medium
+Rajasthan,Jaipur,No,No,No,Low
+Rajasthan,Jodhpur,No,No,No,Low
+Rajasthan,Udaipur,No,Yes,No,Medium
+Tamil Nadu,Chennai,No,Yes,No,Medium
+Tamil Nadu,Coimbatore,No,No,No,Low
+Tamil Nadu,Madurai,No,No,No,Low
+Tamil Nadu,Salem,Yes,No,No,Medium
+Telangana,Hyderabad,No,Yes,Yes,Medium
+Telangana,Nizamabad,No,Yes,Yes,Medium
+Telangana,Warangal,No,Yes,Yes,Medium
+Uttar Pradesh,Agra,No,Yes,No,Medium
+Uttar Pradesh,Kanpur,Yes,Yes,Yes,High
+Uttar Pradesh,Lucknow,No,No,Yes,Low
+Uttar Pradesh,Varanasi,No,No,No,Low
+West Bengal,Howrah,Yes,Yes,No,Medium
+West Bengal,Kolkata,No,No,No,Low
+West Bengal,Siliguri,No,No,No,Low

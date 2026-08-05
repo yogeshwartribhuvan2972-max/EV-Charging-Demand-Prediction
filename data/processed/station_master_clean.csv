@@ -1,0 +1,130 @@
+Station_ID,Station_Name,State,City,Latitude,Longitude,Station_Type,Operator,Charger_Type,Total_Chargers,AC_Chargers,DC_Chargers,Fast_Chargers,Installation_Year,Parking_Capacity,Nearby_Highway,Nearby_Mall,Nearby_Hospital,Nearby_EV_Population,Status,Fast_Charger_Ratio,DC_Ratio,Station_Age,Utilization_Level
+St0001,Mumbai Ev Hub 1,Maharashtra,Mumbai,9.4803,83.0511,Private,Ather Grid,Ac,23,6,9,8,2021,18,No,Yes,Yes,6807,Active,0.34782608695652173,0.391304347826087,4,Medium
+St0002,Mumbai Ev Hub 2,Maharashtra,Mumbai,12.6151,83.3677,Private,Statiq,Ac,16,3,4,9,2021,60,Yes,No,No,8062,Active,0.5625,0.25,4,Medium
+St0003,Mumbai Ev Hub 3,Maharashtra,Mumbai,31.6198,87.3191,Public,Ather Grid,Mixed,14,4,2,8,2021,39,No,Yes,Yes,10942,Active,0.5714285714285714,0.14285714285714285,4,Medium
+St0004,Pune Ev Hub 1,Maharashtra,Pune,24.0721,82.3979,Private,Tata Power,Mixed,14,7,2,5,2021,59,Yes,No,No,1300,Active,0.35714285714285715,0.14285714285714285,4,Low
+St0005,Pune Ev Hub 2,Maharashtra,Pune,31.1455,87.206,Public,Ather Grid,Ac,15,2,8,5,2021,11,Yes,No,No,2164,Active,0.3333333333333333,0.5333333333333333,4,Low
+St0006,Nagpur Ev Hub 1,Maharashtra,Nagpur,20.4929,73.3492,Highway,Chargezone,Mixed,9,4,4,1,2025,13,Yes,No,Yes,9155,Active,0.1111111111111111,0.4444444444444444,0,Medium
+St0007,Nagpur Ev Hub 2,Maharashtra,Nagpur,27.6158,88.074,Public,Tata Power,Mixed,21,7,4,10,2023,49,No,Yes,No,4978,Active,0.47619047619047616,0.19047619047619047,2,Low
+St0008,Nagpur Ev Hub 3,Maharashtra,Nagpur,19.9104,87.5,Private,Chargezone,Mixed,6,2,2,2,2024,14,No,No,No,1677,Active,0.3333333333333333,0.3333333333333333,1,Low
+St0009,Nagpur Ev Hub 4,Maharashtra,Nagpur,27.228,82.8745,Highway,Chargezone,Mixed,12,6,4,2,2022,57,No,Yes,Yes,3356,Active,0.16666666666666666,0.3333333333333333,3,Low
+St0010,Nagpur Ev Hub 5,Maharashtra,Nagpur,11.0197,88.1238,Private,Jio-Bp,Ac,12,4,4,4,2021,29,No,No,Yes,1610,Active,0.3333333333333333,0.3333333333333333,4,Low
+St0011,Nashik Ev Hub 1,Maharashtra,Nashik,29.7535,77.6116,Public,Chargezone,Mixed,7,3,2,2,2023,19,No,No,No,3649,Active,0.2857142857142857,0.2857142857142857,2,Low
+St0012,Nashik Ev Hub 2,Maharashtra,Nashik,27.2988,74.5873,Private,Jio-Bp,Ac,11,5,3,3,2024,31,No,No,Yes,7651,Active,0.2727272727272727,0.2727272727272727,1,Medium
+St0013,Nashik Ev Hub 3,Maharashtra,Nashik,30.9291,80.7119,Private,Chargezone,Ac,12,2,9,1,2022,53,Yes,No,No,6029,Active,0.08333333333333333,0.75,3,Medium
+St0014,Nashik Ev Hub 4,Maharashtra,Nashik,27.4619,76.9476,Private,Jio-Bp,Dc,14,6,7,1,2023,32,No,No,Yes,1803,Active,0.07142857142857142,0.5,2,Low
+St0015,Chhatrapati Sambhajinagar Ev Hub 1,Maharashtra,Chhatrapati Sambhajinagar,19.9979,75.9132,Highway,Jio-Bp,Ac,7,2,3,2,2025,16,No,No,No,1112,Active,0.2857142857142857,0.42857142857142855,0,Low
+St0016,Chhatrapati Sambhajinagar Ev Hub 2,Maharashtra,Chhatrapati Sambhajinagar,11.7545,72.771,Private,Jio-Bp,Dc,6,2,3,1,2025,34,Yes,No,Yes,7813,Active,0.16666666666666666,0.5,0,Medium
+St0017,Chhatrapati Sambhajinagar Ev Hub 3,Maharashtra,Chhatrapati Sambhajinagar,32.4908,82.8504,Private,Statiq,Ac,23,11,4,8,2023,35,Yes,No,Yes,8855,Active,0.34782608695652173,0.17391304347826086,2,Medium
+St0018,Chhatrapati Sambhajinagar Ev Hub 4,Maharashtra,Chhatrapati Sambhajinagar,22.1909,81.9502,Highway,Chargezone,Dc,18,2,15,1,2025,42,Yes,Yes,Yes,11593,Active,0.05555555555555555,0.8333333333333334,0,Medium
+St0019,Bengaluru Ev Hub 1,Karnataka,Bengaluru,30.2187,80.5899,Highway,Jio-Bp,Mixed,13,3,7,3,2024,42,Yes,No,Yes,3214,Active,0.23076923076923078,0.5384615384615384,1,Low
+St0020,Bengaluru Ev Hub 2,Karnataka,Bengaluru,12.7622,80.5121,Private,Ather Grid,Dc,18,7,8,3,2025,21,No,No,Yes,10434,Active,0.16666666666666666,0.4444444444444444,0,Medium
+St0021,Bengaluru Ev Hub 3,Karnataka,Bengaluru,32.9221,76.1666,Highway,Statiq,Mixed,8,4,3,1,2022,56,No,No,No,2631,Active,0.125,0.375,3,Low
+St0022,Bengaluru Ev Hub 4,Karnataka,Bengaluru,8.3986,86.6381,Public,Ather Grid,Ac,8,2,4,2,2022,60,Yes,Yes,Yes,11489,Active,0.25,0.5,3,Medium
+St0023,Bengaluru Ev Hub 5,Karnataka,Bengaluru,20.1504,85.2348,Highway,Statiq,Dc,20,4,11,5,2023,36,Yes,Yes,No,11321,Active,0.25,0.55,2,Medium
+St0024,Mysuru Ev Hub 1,Karnataka,Mysuru,10.9761,80.7663,Private,Statiq,Mixed,15,4,3,8,2025,43,Yes,No,No,7035,Active,0.5333333333333333,0.2,0,Medium
+St0025,Mysuru Ev Hub 2,Karnataka,Mysuru,9.418,88.287,Public,Tata Power,Ac,16,4,5,7,2025,11,Yes,No,No,8181,Active,0.4375,0.3125,0,Medium
+St0026,Mysuru Ev Hub 3,Karnataka,Mysuru,11.7312,86.3707,Public,Statiq,Mixed,17,2,7,8,2021,18,No,No,No,10478,Active,0.47058823529411764,0.4117647058823529,4,Medium
+St0027,Mysuru Ev Hub 4,Karnataka,Mysuru,16.2896,85.0278,Private,Ather Grid,Mixed,21,9,10,2,2021,19,Yes,No,Yes,8002,Active,0.09523809523809523,0.47619047619047616,4,Medium
+St0028,Mangaluru Ev Hub 1,Karnataka,Mangaluru,25.5148,86.4804,Highway,Chargezone,Mixed,9,4,2,3,2022,27,No,No,No,8651,Active,0.3333333333333333,0.2222222222222222,3,Medium
+St0029,Mangaluru Ev Hub 2,Karnataka,Mangaluru,25.7447,75.116,Private,Tata Power,Dc,19,7,3,9,2022,24,No,Yes,No,5729,Active,0.47368421052631576,0.15789473684210525,3,Medium
+St0030,Mangaluru Ev Hub 3,Karnataka,Mangaluru,19.8992,72.625,Private,Chargezone,Dc,10,2,6,2,2024,32,Yes,Yes,Yes,5830,Active,0.2,0.6,1,Medium
+St0031,Mangaluru Ev Hub 4,Karnataka,Mangaluru,16.9174,85.1973,Highway,Ather Grid,Mixed,23,11,8,4,2022,23,No,Yes,No,8528,Active,0.17391304347826086,0.34782608695652173,3,Medium
+St0032,Mangaluru Ev Hub 5,Karnataka,Mangaluru,16.5012,82.8486,Public,Ather Grid,Mixed,15,6,5,4,2023,48,Yes,Yes,Yes,2207,Active,0.26666666666666666,0.3333333333333333,2,Low
+St0033,Hubballi Ev Hub 1,Karnataka,Hubballi,18.2328,73.2865,Highway,Jio-Bp,Ac,17,8,7,2,2022,32,Yes,Yes,No,1198,Active,0.11764705882352941,0.4117647058823529,3,Low
+St0034,Hubballi Ev Hub 2,Karnataka,Hubballi,13.0818,76.675,Public,Ather Grid,Ac,16,4,6,6,2021,41,Yes,No,No,4809,Active,0.375,0.375,4,Low
+St0035,Hubballi Ev Hub 3,Karnataka,Hubballi,22.653,81.3158,Public,Tata Power,Dc,21,7,8,6,2021,44,No,Yes,Yes,3040,Active,0.2857142857142857,0.38095238095238093,4,Low
+St0036,Hubballi Ev Hub 4,Karnataka,Hubballi,10.0486,77.1413,Highway,Statiq,Ac,6,2,2,2,2022,44,No,No,No,10433,Active,0.3333333333333333,0.3333333333333333,3,Medium
+St0037,Hubballi Ev Hub 5,Karnataka,Hubballi,12.1956,76.8974,Private,Statiq,Ac,6,3,2,1,2024,49,Yes,Yes,Yes,4132,Active,0.16666666666666666,0.3333333333333333,1,Low
+St0038,Chennai Ev Hub 1,Tamil Nadu,Chennai,14.862,77.7167,Private,Ather Grid,Ac,20,9,9,2,2024,44,No,No,Yes,10084,Active,0.1,0.45,1,Medium
+St0039,Chennai Ev Hub 2,Tamil Nadu,Chennai,17.7186,82.3293,Public,Statiq,Ac,6,3,2,1,2025,55,No,Yes,No,6275,Active,0.16666666666666666,0.3333333333333333,0,Medium
+St0040,Coimbatore Ev Hub 1,Tamil Nadu,Coimbatore,9.1452,75.5191,Private,Ather Grid,Mixed,14,2,10,2,2024,19,No,Yes,No,9601,Active,0.14285714285714285,0.7142857142857143,1,Medium
+St0041,Coimbatore Ev Hub 2,Tamil Nadu,Coimbatore,19.212,78.3406,Public,Chargezone,Mixed,18,3,12,3,2022,60,No,Yes,No,8503,Active,0.16666666666666666,0.6666666666666666,3,Medium
+St0042,Coimbatore Ev Hub 3,Tamil Nadu,Coimbatore,13.3549,88.0907,Private,Chargezone,Ac,19,3,14,2,2022,14,Yes,No,Yes,10692,Active,0.10526315789473684,0.7368421052631579,3,Medium
+St0043,Coimbatore Ev Hub 4,Tamil Nadu,Coimbatore,10.0928,79.3372,Private,Jio-Bp,Mixed,17,2,4,11,2025,14,No,No,Yes,9913,Active,0.6470588235294118,0.23529411764705882,0,Medium
+St0044,Madurai Ev Hub 1,Tamil Nadu,Madurai,10.3857,74.6155,Public,Jio-Bp,Mixed,7,3,3,1,2022,16,No,Yes,Yes,8463,Active,0.14285714285714285,0.42857142857142855,3,Medium
+St0045,Madurai Ev Hub 2,Tamil Nadu,Madurai,16.2159,85.8579,Highway,Chargezone,Ac,24,10,9,5,2024,16,No,No,No,5260,Active,0.20833333333333334,0.375,1,Medium
+St0046,Madurai Ev Hub 3,Tamil Nadu,Madurai,9.5296,83.1099,Private,Tata Power,Ac,13,4,6,3,2021,13,No,No,Yes,6492,Active,0.23076923076923078,0.46153846153846156,4,Medium
+St0047,Salem Ev Hub 1,Tamil Nadu,Salem,25.6094,83.2474,Private,Chargezone,Dc,16,7,3,6,2022,46,No,Yes,No,3934,Active,0.375,0.1875,3,Low
+St0048,Salem Ev Hub 2,Tamil Nadu,Salem,9.5449,75.756,Public,Jio-Bp,Mixed,15,4,9,2,2021,28,No,No,No,11644,Active,0.13333333333333333,0.6,4,Medium
+St0049,Hyderabad Ev Hub 1,Telangana,Hyderabad,16.2587,80.3166,Highway,Tata Power,Mixed,18,4,5,9,2021,10,No,No,Yes,8226,Active,0.5,0.2777777777777778,4,Medium
+St0050,Hyderabad Ev Hub 2,Telangana,Hyderabad,32.0476,83.5478,Public,Ather Grid,Ac,9,4,3,2,2023,58,No,No,Yes,5034,Active,0.2222222222222222,0.3333333333333333,2,Medium
+St0051,Hyderabad Ev Hub 3,Telangana,Hyderabad,13.7253,86.0984,Private,Ather Grid,Mixed,10,3,3,4,2024,41,No,Yes,Yes,8944,Active,0.4,0.3,1,Medium
+St0052,Hyderabad Ev Hub 4,Telangana,Hyderabad,30.9433,80.1665,Highway,Tata Power,Dc,6,2,2,2,2023,51,No,No,No,1090,Active,0.3333333333333333,0.3333333333333333,2,Low
+St0053,Hyderabad Ev Hub 5,Telangana,Hyderabad,27.9236,75.9379,Highway,Statiq,Dc,19,8,4,7,2021,25,Yes,No,No,2419,Active,0.3684210526315789,0.21052631578947367,4,Low
+St0054,Warangal Ev Hub 1,Telangana,Warangal,8.2433,72.3038,Public,Jio-Bp,Dc,23,11,6,6,2023,23,No,Yes,No,5852,Active,0.2608695652173913,0.2608695652173913,2,Medium
+St0055,Warangal Ev Hub 2,Telangana,Warangal,17.5779,88.4529,Private,Chargezone,Mixed,15,7,4,4,2021,58,Yes,No,Yes,1811,Active,0.26666666666666666,0.26666666666666666,4,Low
+St0056,Warangal Ev Hub 3,Telangana,Warangal,20.5404,83.4368,Public,Ather Grid,Ac,14,2,8,4,2021,14,No,No,Yes,2616,Active,0.2857142857142857,0.5714285714285714,4,Low
+St0057,Warangal Ev Hub 4,Telangana,Warangal,23.9726,82.2652,Private,Jio-Bp,Ac,18,2,8,8,2021,13,No,Yes,Yes,3797,Active,0.4444444444444444,0.4444444444444444,4,Low
+St0058,Warangal Ev Hub 5,Telangana,Warangal,15.398,85.7074,Private,Ather Grid,Ac,8,2,3,3,2022,53,No,No,No,11702,Active,0.375,0.375,3,Medium
+St0059,Nizamabad Ev Hub 1,Telangana,Nizamabad,26.4573,88.1173,Public,Ather Grid,Ac,17,3,13,1,2023,12,No,No,Yes,1863,Active,0.058823529411764705,0.7647058823529411,2,Low
+St0060,Nizamabad Ev Hub 2,Telangana,Nizamabad,32.7431,86.7433,Private,Ather Grid,Mixed,19,7,3,9,2025,49,No,No,Yes,9497,Active,0.47368421052631576,0.15789473684210525,0,Medium
+St0061,Nizamabad Ev Hub 3,Telangana,Nizamabad,16.8211,75.9157,Private,Statiq,Ac,19,9,5,5,2025,50,Yes,Yes,Yes,5752,Active,0.2631578947368421,0.2631578947368421,0,Medium
+St0062,Nizamabad Ev Hub 4,Telangana,Nizamabad,30.1179,76.8264,Highway,Jio-Bp,Dc,13,6,2,5,2024,37,No,Yes,No,6409,Active,0.38461538461538464,0.15384615384615385,1,Medium
+St0063,Nizamabad Ev Hub 5,Telangana,Nizamabad,30.7716,80.9498,Highway,Statiq,Mixed,22,7,9,6,2024,49,Yes,No,Yes,6288,Active,0.2727272727272727,0.4090909090909091,1,Medium
+St0064,Ahmedabad Ev Hub 1,Gujarat,Ahmedabad,23.5758,79.7503,Highway,Tata Power,Dc,24,2,9,13,2024,33,Yes,No,No,1557,Active,0.5416666666666666,0.375,1,Low
+St0065,Ahmedabad Ev Hub 2,Gujarat,Ahmedabad,24.2521,87.1043,Private,Ather Grid,Ac,21,2,7,12,2025,50,Yes,Yes,No,9885,Active,0.5714285714285714,0.3333333333333333,0,Medium
+St0066,Ahmedabad Ev Hub 3,Gujarat,Ahmedabad,21.6653,83.5673,Public,Chargezone,Mixed,18,8,9,1,2023,58,Yes,No,No,3974,Active,0.05555555555555555,0.5,2,Low
+St0067,Surat Ev Hub 1,Gujarat,Surat,18.7024,81.4195,Public,Statiq,Dc,22,6,7,9,2022,19,Yes,No,No,1562,Active,0.4090909090909091,0.3181818181818182,3,Low
+St0068,Surat Ev Hub 2,Gujarat,Surat,10.5469,85.9477,Highway,Statiq,Mixed,6,2,2,2,2022,27,No,No,No,5730,Active,0.3333333333333333,0.3333333333333333,3,Medium
+St0069,Surat Ev Hub 3,Gujarat,Surat,11.7072,77.046,Highway,Tata Power,Mixed,7,3,3,1,2021,30,Yes,No,No,3665,Active,0.14285714285714285,0.42857142857142855,4,Low
+St0070,Surat Ev Hub 4,Gujarat,Surat,32.2842,83.1327,Highway,Statiq,Mixed,7,2,4,1,2023,19,Yes,No,Yes,7331,Active,0.14285714285714285,0.5714285714285714,2,Medium
+St0071,Surat Ev Hub 5,Gujarat,Surat,32.0102,72.6504,Public,Chargezone,Dc,15,5,3,7,2022,55,No,No,Yes,10187,Active,0.4666666666666667,0.2,3,Medium
+St0072,Vadodara Ev Hub 1,Gujarat,Vadodara,29.177,84.6473,Private,Tata Power,Ac,22,9,12,1,2022,58,Yes,Yes,Yes,8989,Active,0.045454545454545456,0.5454545454545454,3,Medium
+St0073,Vadodara Ev Hub 2,Gujarat,Vadodara,14.9313,84.3489,Private,Tata Power,Ac,16,5,10,1,2022,21,Yes,No,Yes,3165,Active,0.0625,0.625,3,Low
+St0074,Vadodara Ev Hub 3,Gujarat,Vadodara,32.2834,87.3894,Highway,Chargezone,Ac,10,3,2,5,2021,21,Yes,Yes,Yes,10273,Active,0.5,0.2,4,Medium
+St0075,Vadodara Ev Hub 4,Gujarat,Vadodara,19.3355,78.8019,Private,Statiq,Dc,10,4,2,4,2024,30,Yes,Yes,Yes,4821,Active,0.4,0.2,1,Low
+St0076,Vadodara Ev Hub 5,Gujarat,Vadodara,12.9638,85.8389,Highway,Jio-Bp,Mixed,15,3,4,8,2025,58,Yes,No,Yes,3058,Active,0.5333333333333333,0.26666666666666666,0,Low
+St0077,Rajkot Ev Hub 1,Gujarat,Rajkot,25.7801,81.0172,Highway,Chargezone,Dc,10,2,2,6,2021,54,Yes,No,No,3368,Active,0.6,0.2,4,Low
+St0078,Rajkot Ev Hub 2,Gujarat,Rajkot,32.3395,86.3865,Public,Statiq,Ac,11,4,2,5,2022,50,No,No,Yes,4190,Active,0.45454545454545453,0.18181818181818182,3,Low
+St0079,Rajkot Ev Hub 3,Gujarat,Rajkot,31.4917,72.4135,Public,Chargezone,Dc,8,2,3,3,2024,37,No,Yes,No,10550,Active,0.375,0.375,1,Medium
+St0080,Rajkot Ev Hub 4,Gujarat,Rajkot,15.2129,80.2919,Highway,Ather Grid,Dc,16,5,7,4,2022,38,Yes,Yes,Yes,4198,Active,0.25,0.4375,3,Low
+St0081,Rajkot Ev Hub 5,Gujarat,Rajkot,22.5177,88.4383,Public,Ather Grid,Mixed,17,7,2,8,2022,11,Yes,Yes,No,1964,Active,0.47058823529411764,0.11764705882352941,3,Low
+St0082,Lucknow Ev Hub 1,Uttar Pradesh,Lucknow,31.0806,82.2673,Highway,Chargezone,Ac,14,2,2,10,2025,34,No,No,No,2097,Active,0.7142857142857143,0.14285714285714285,0,Low
+St0083,Lucknow Ev Hub 2,Uttar Pradesh,Lucknow,24.6201,74.5776,Private,Jio-Bp,Ac,21,3,10,8,2021,40,Yes,Yes,No,8211,Active,0.38095238095238093,0.47619047619047616,4,Medium
+St0084,Lucknow Ev Hub 3,Uttar Pradesh,Lucknow,17.1141,87.3683,Highway,Statiq,Dc,22,7,2,13,2023,48,Yes,No,Yes,10512,Active,0.5909090909090909,0.09090909090909091,2,Medium
+St0085,Lucknow Ev Hub 4,Uttar Pradesh,Lucknow,8.5762,79.122,Private,Tata Power,Mixed,7,2,4,1,2021,25,Yes,Yes,Yes,8862,Active,0.14285714285714285,0.5714285714285714,4,Medium
+St0086,Kanpur Ev Hub 1,Uttar Pradesh,Kanpur,27.5138,84.6873,Private,Jio-Bp,Mixed,20,6,11,3,2024,16,No,Yes,Yes,5929,Active,0.15,0.55,1,Medium
+St0087,Kanpur Ev Hub 2,Uttar Pradesh,Kanpur,19.7812,87.1531,Public,Chargezone,Dc,13,2,5,6,2022,40,No,Yes,Yes,6627,Active,0.46153846153846156,0.38461538461538464,3,Medium
+St0088,Kanpur Ev Hub 3,Uttar Pradesh,Kanpur,9.7794,73.8755,Highway,Jio-Bp,Mixed,10,3,5,2,2022,12,No,No,Yes,1680,Active,0.2,0.5,3,Low
+St0089,Kanpur Ev Hub 4,Uttar Pradesh,Kanpur,8.9661,73.3665,Private,Tata Power,Ac,19,2,7,10,2025,34,Yes,Yes,Yes,8823,Active,0.5263157894736842,0.3684210526315789,0,Medium
+St0090,Kanpur Ev Hub 5,Uttar Pradesh,Kanpur,31.3074,74.6598,Public,Jio-Bp,Dc,20,7,6,7,2022,10,No,Yes,No,11359,Active,0.35,0.3,3,Medium
+St0091,Agra Ev Hub 1,Uttar Pradesh,Agra,27.2156,82.5467,Private,Statiq,Dc,16,5,4,7,2024,34,No,No,Yes,2458,Active,0.4375,0.25,1,Low
+St0092,Agra Ev Hub 2,Uttar Pradesh,Agra,13.719,77.9009,Highway,Chargezone,Mixed,19,9,9,1,2024,51,No,Yes,Yes,9681,Active,0.05263157894736842,0.47368421052631576,1,Medium
+St0093,Agra Ev Hub 3,Uttar Pradesh,Agra,18.238,76.32,Highway,Tata Power,Dc,24,12,7,5,2022,16,Yes,No,Yes,5235,Active,0.20833333333333334,0.2916666666666667,3,Medium
+St0094,Varanasi Ev Hub 1,Uttar Pradesh,Varanasi,8.0824,83.1564,Public,Statiq,Ac,17,5,9,3,2023,42,Yes,No,Yes,11610,Active,0.17647058823529413,0.5294117647058824,2,Medium
+St0095,Varanasi Ev Hub 2,Uttar Pradesh,Varanasi,32.3188,85.629,Highway,Jio-Bp,Dc,7,3,2,2,2023,58,No,No,No,7402,Active,0.2857142857142857,0.2857142857142857,2,Medium
+St0096,Varanasi Ev Hub 3,Uttar Pradesh,Varanasi,12.9214,83.3673,Private,Chargezone,Dc,19,7,7,5,2025,17,Yes,Yes,No,8837,Active,0.2631578947368421,0.3684210526315789,0,Medium
+St0097,Varanasi Ev Hub 4,Uttar Pradesh,Varanasi,19.8483,84.0235,Highway,Statiq,Ac,15,4,3,8,2021,18,Yes,No,No,6999,Active,0.5333333333333333,0.2,4,Medium
+St0098,Kochi Ev Hub 1,Kerala,Kochi,8.9579,74.6458,Public,Jio-Bp,Dc,9,2,5,2,2022,46,Yes,No,No,11198,Active,0.2222222222222222,0.5555555555555556,3,Medium
+St0099,Kochi Ev Hub 2,Kerala,Kochi,22.6224,73.5739,Private,Jio-Bp,Ac,18,9,4,5,2024,37,No,Yes,No,8292,Active,0.2777777777777778,0.2222222222222222,1,Medium
+St0100,Kochi Ev Hub 3,Kerala,Kochi,21.9583,72.331,Highway,Chargezone,Dc,16,2,11,3,2024,34,Yes,Yes,No,6995,Active,0.1875,0.6875,1,Medium
+St0101,Thiruvananthapuram Ev Hub 1,Kerala,Thiruvananthapuram,20.803,79.2087,Highway,Statiq,Dc,23,2,5,16,2025,24,No,Yes,No,11730,Active,0.6956521739130435,0.21739130434782608,0,Medium
+St0102,Thiruvananthapuram Ev Hub 2,Kerala,Thiruvananthapuram,30.411,87.6536,Private,Ather Grid,Dc,8,2,3,3,2025,60,No,Yes,No,7296,Active,0.375,0.375,0,Medium
+St0103,Thiruvananthapuram Ev Hub 3,Kerala,Thiruvananthapuram,26.5321,74.5502,Private,Chargezone,Mixed,6,3,2,1,2025,16,No,Yes,Yes,9395,Active,0.16666666666666666,0.3333333333333333,0,Medium
+St0104,Thiruvananthapuram Ev Hub 4,Kerala,Thiruvananthapuram,13.7178,80.3223,Public,Statiq,Dc,23,3,19,1,2022,26,Yes,Yes,No,6200,Active,0.043478260869565216,0.8260869565217391,3,Medium
+St0105,Thiruvananthapuram Ev Hub 5,Kerala,Thiruvananthapuram,10.5719,85.3315,Public,Ather Grid,Dc,10,5,4,1,2023,37,No,Yes,Yes,7831,Active,0.1,0.4,2,Medium
+St0106,Kozhikode Ev Hub 1,Kerala,Kozhikode,26.2993,84.3359,Private,Chargezone,Ac,8,2,2,4,2021,58,No,Yes,No,1937,Active,0.5,0.25,4,Low
+St0107,Kozhikode Ev Hub 2,Kerala,Kozhikode,8.9074,78.7637,Private,Jio-Bp,Ac,15,5,3,7,2022,50,No,Yes,Yes,8511,Active,0.4666666666666667,0.2,3,Medium
+St0108,Kozhikode Ev Hub 3,Kerala,Kozhikode,9.3669,82.4931,Highway,Jio-Bp,Dc,9,4,3,2,2023,33,Yes,Yes,No,5754,Active,0.2222222222222222,0.3333333333333333,2,Medium
+St0109,Kozhikode Ev Hub 4,Kerala,Kozhikode,23.9608,75.4893,Highway,Tata Power,Ac,17,2,14,1,2024,31,No,No,No,1811,Active,0.058823529411764705,0.8235294117647058,1,Low
+St0110,Kolkata Ev Hub 1,West Bengal,Kolkata,9.7368,73.1038,Public,Jio-Bp,Dc,23,8,8,7,2025,33,Yes,Yes,No,7703,Active,0.30434782608695654,0.34782608695652173,0,Medium
+St0111,Kolkata Ev Hub 2,West Bengal,Kolkata,21.044,76.3734,Highway,Jio-Bp,Dc,11,3,3,5,2023,17,No,No,No,1651,Active,0.45454545454545453,0.2727272727272727,2,Low
+St0112,Kolkata Ev Hub 3,West Bengal,Kolkata,17.8596,77.092,Public,Statiq,Dc,20,4,11,5,2021,39,No,Yes,Yes,5214,Active,0.25,0.55,4,Medium
+St0113,Howrah Ev Hub 1,West Bengal,Howrah,30.3256,78.7045,Highway,Ather Grid,Mixed,10,2,7,1,2024,24,No,No,No,4884,Active,0.1,0.7,1,Low
+St0114,Howrah Ev Hub 2,West Bengal,Howrah,32.0675,84.7265,Highway,Ather Grid,Mixed,21,6,10,5,2021,60,Yes,Yes,Yes,4801,Active,0.23809523809523808,0.47619047619047616,4,Low
+St0115,Siliguri Ev Hub 1,West Bengal,Siliguri,15.5206,74.507,Public,Tata Power,Dc,22,10,2,10,2024,26,No,No,Yes,10733,Active,0.45454545454545453,0.09090909090909091,1,Medium
+St0116,Siliguri Ev Hub 2,West Bengal,Siliguri,18.8156,78.9888,Public,Tata Power,Dc,8,4,3,1,2022,30,Yes,No,Yes,1767,Active,0.125,0.375,3,Low
+St0117,Jaipur Ev Hub 1,Rajasthan,Jaipur,11.9904,73.3188,Public,Chargezone,Mixed,14,2,11,1,2024,37,Yes,Yes,No,1356,Active,0.07142857142857142,0.7857142857142857,1,Low
+St0118,Jaipur Ev Hub 2,Rajasthan,Jaipur,28.0609,88.0627,Highway,Ather Grid,Mixed,7,2,3,2,2023,60,Yes,No,Yes,10103,Active,0.2857142857142857,0.42857142857142855,2,Medium
+St0119,Jaipur Ev Hub 3,Rajasthan,Jaipur,19.998,82.2222,Public,Ather Grid,Mixed,6,3,2,1,2021,37,No,Yes,Yes,2355,Active,0.16666666666666666,0.3333333333333333,4,Low
+St0120,Jodhpur Ev Hub 1,Rajasthan,Jodhpur,10.5491,88.1674,Public,Ather Grid,Dc,14,3,7,4,2023,25,Yes,Yes,No,6087,Active,0.2857142857142857,0.5,2,Medium
+St0121,Jodhpur Ev Hub 2,Rajasthan,Jodhpur,25.2271,81.5731,Highway,Ather Grid,Mixed,11,3,6,2,2021,28,Yes,Yes,Yes,6125,Active,0.18181818181818182,0.5454545454545454,4,Medium
+St0122,Jodhpur Ev Hub 3,Rajasthan,Jodhpur,19.446,82.9099,Highway,Statiq,Mixed,11,4,4,3,2023,17,No,Yes,No,10033,Active,0.2727272727272727,0.36363636363636365,2,Medium
+St0123,Udaipur Ev Hub 1,Rajasthan,Udaipur,15.4319,84.9408,Public,Jio-Bp,Ac,19,7,11,1,2022,26,No,Yes,Yes,10629,Active,0.05263157894736842,0.5789473684210527,3,Medium
+St0124,Udaipur Ev Hub 2,Rajasthan,Udaipur,24.7406,81.8059,Highway,Statiq,Mixed,14,3,10,1,2025,18,No,Yes,No,3943,Active,0.07142857142857142,0.7142857142857143,0,Low
+St0125,Udaipur Ev Hub 3,Rajasthan,Udaipur,10.6609,75.5034,Private,Statiq,Ac,17,3,3,11,2022,41,No,No,Yes,9451,Active,0.6470588235294118,0.17647058823529413,3,Medium
+St0126,Udaipur Ev Hub 4,Rajasthan,Udaipur,23.2508,74.0202,Public,Ather Grid,Dc,19,3,11,5,2022,14,No,Yes,Yes,6618,Active,0.2631578947368421,0.5789473684210527,3,Medium
+St0127,New Delhi Ev Hub 1,Delhi,New Delhi,15.933,74.6177,Public,Jio-Bp,Dc,20,5,14,1,2025,23,Yes,Yes,Yes,3988,Active,0.05,0.7,0,Low
+St0128,New Delhi Ev Hub 2,Delhi,New Delhi,32.736,87.7385,Highway,Tata Power,Ac,22,8,9,5,2021,43,Yes,No,No,11205,Active,0.22727272727272727,0.4090909090909091,4,Medium
+St0129,New Delhi Ev Hub 3,Delhi,New Delhi,21.1596,88.2945,Private,Ather Grid,Mixed,7,2,2,3,2023,58,Yes,No,No,3346,Active,0.42857142857142855,0.2857142857142857,2,Low

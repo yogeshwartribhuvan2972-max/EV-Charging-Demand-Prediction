@@ -1,0 +1,381 @@
+Year,State,City,Public_AC,Public_DC,Private,Highway_Fast,Total_Charging_Stations,Utilization_%,Avg_Daily_Sessions
+2021,Andhra Pradesh,Visakhapatnam,12,4,7,2,25,57.9,189
+2022,Andhra Pradesh,Visakhapatnam,15,6,9,3,33,67.8,234
+2023,Andhra Pradesh,Visakhapatnam,20,10,9,5,44,53.4,337
+2024,Andhra Pradesh,Visakhapatnam,32,15,7,7,61,72.2,466
+2025,Andhra Pradesh,Visakhapatnam,37,13,12,9,71,60.6,473
+2021,Andhra Pradesh,Vijayawada,27,11,16,5,59,56.5,699
+2022,Andhra Pradesh,Vijayawada,34,18,17,6,75,67.3,1132
+2023,Andhra Pradesh,Vijayawada,49,26,11,14,100,63.6,995
+2024,Andhra Pradesh,Vijayawada,70,28,16,18,132,64.9,1432
+2025,Andhra Pradesh,Vijayawada,88,36,10,23,157,80.1,1368
+2021,Andhra Pradesh,Guntur,15,7,10,3,35,69.6,401
+2022,Andhra Pradesh,Guntur,22,11,5,5,43,48.3,491
+2023,Andhra Pradesh,Guntur,30,14,8,7,59,59.9,713
+2024,Andhra Pradesh,Guntur,35,13,17,8,73,72.5,1127
+2025,Andhra Pradesh,Guntur,44,19,19,8,90,58.5,541
+2021,Andhra Pradesh,Tirupati,18,9,4,4,35,73.3,433
+2022,Andhra Pradesh,Tirupati,27,14,7,5,53,53.0,619
+2023,Andhra Pradesh,Tirupati,33,13,13,8,67,46.9,421
+2024,Andhra Pradesh,Tirupati,37,16,18,11,82,49.0,1140
+2025,Andhra Pradesh,Tirupati,50,22,18,10,100,48.1,1226
+2021,Arunachal Pradesh,Itanagar,26,9,13,4,52,42.9,657
+2022,Arunachal Pradesh,Itanagar,33,13,11,9,66,64.9,680
+2023,Arunachal Pradesh,Itanagar,45,24,10,12,91,45.1,869
+2024,Arunachal Pradesh,Itanagar,64,31,7,13,115,56.9,1277
+2025,Arunachal Pradesh,Itanagar,61,33,29,12,135,77.5,777
+2021,Arunachal Pradesh,Naharlagun,20,11,11,4,46,76.3,543
+2022,Arunachal Pradesh,Naharlagun,37,17,7,5,66,43.8,983
+2023,Arunachal Pradesh,Naharlagun,40,21,9,6,76,45.0,930
+2024,Arunachal Pradesh,Naharlagun,55,25,16,10,106,81.4,1396
+2025,Arunachal Pradesh,Naharlagun,61,24,30,13,128,82.3,1660
+2021,Assam,Guwahati,33,14,17,8,72,54.1,513
+2022,Assam,Guwahati,48,25,13,8,94,54.8,758
+2023,Assam,Guwahati,74,26,15,14,129,46.8,1286
+2024,Assam,Guwahati,85,34,14,20,153,67.6,1534
+2025,Assam,Guwahati,90,41,48,17,196,72.8,3005
+2021,Assam,Silchar,36,20,8,9,73,58.9,605
+2022,Assam,Silchar,44,24,17,9,94,47.2,1372
+2023,Assam,Silchar,64,28,20,10,122,75.4,1771
+2024,Assam,Silchar,80,28,27,19,154,53.3,817
+2025,Assam,Silchar,108,54,14,21,197,82.2,2708
+2021,Assam,Dibrugarh,15,6,7,4,32,74.1,267
+2022,Assam,Dibrugarh,20,10,12,4,46,57.7,525
+2023,Assam,Dibrugarh,32,16,7,6,61,69.8,438
+2024,Assam,Dibrugarh,36,15,15,9,75,67.9,948
+2025,Assam,Dibrugarh,51,17,14,12,94,76.2,1410
+2021,Bihar,Patna,22,8,7,6,43,51.2,511
+2022,Bihar,Patna,28,9,11,5,53,78.2,410
+2023,Bihar,Patna,36,19,8,10,73,51.7,589
+2024,Bihar,Patna,48,23,8,7,86,66.5,847
+2025,Bihar,Patna,57,30,20,10,117,83.5,899
+2021,Bihar,Gaya,14,5,7,4,30,55.1,388
+2022,Bihar,Gaya,20,8,10,3,41,53.7,512
+2023,Bihar,Gaya,27,10,11,6,54,53.0,432
+2024,Bihar,Gaya,33,15,14,6,68,83.5,828
+2025,Bihar,Gaya,52,18,13,9,92,80.5,1322
+2021,Bihar,Muzaffarpur,30,14,8,8,60,77.7,433
+2022,Bihar,Muzaffarpur,42,18,22,8,90,63.1,969
+2023,Bihar,Muzaffarpur,62,26,7,16,111,43.3,929
+2024,Bihar,Muzaffarpur,63,28,32,16,139,50.6,750
+2025,Bihar,Muzaffarpur,101,34,26,23,184,55.3,2440
+2021,Chhattisgarh,Raipur,14,8,5,4,31,62.7,158
+2022,Chhattisgarh,Raipur,21,8,6,5,40,69.6,498
+2023,Chhattisgarh,Raipur,25,11,10,7,53,52.2,537
+2024,Chhattisgarh,Raipur,39,15,5,9,68,76.6,369
+2025,Chhattisgarh,Raipur,47,21,9,7,84,81.5,693
+2021,Chhattisgarh,Bhilai,20,8,9,6,43,72.1,663
+2022,Chhattisgarh,Bhilai,30,10,10,6,56,56.9,446
+2023,Chhattisgarh,Bhilai,37,14,16,7,74,46.8,833
+2024,Chhattisgarh,Bhilai,40,21,20,7,88,58.6,455
+2025,Chhattisgarh,Bhilai,54,23,27,10,114,86.2,1078
+2021,Chhattisgarh,Bilaspur,12,7,5,2,26,67.8,146
+2022,Chhattisgarh,Bilaspur,20,7,4,4,35,52.4,507
+2023,Chhattisgarh,Bilaspur,24,11,3,5,43,57.8,589
+2024,Chhattisgarh,Bilaspur,30,14,8,8,60,70.4,319
+2025,Chhattisgarh,Bilaspur,33,12,18,7,70,88.2,987
+2021,Goa,Panaji,39,17,11,5,72,42.3,1124
+2022,Goa,Panaji,44,24,12,13,93,59.4,1092
+2023,Goa,Panaji,53,26,26,13,118,55.3,1845
+2024,Goa,Panaji,74,28,30,20,152,48.3,2121
+2025,Goa,Panaji,101,48,13,26,188,74.2,2212
+2021,Goa,Margao,17,8,5,3,33,46.9,466
+2022,Goa,Margao,24,11,4,6,45,66.3,681
+2023,Goa,Margao,28,13,6,6,53,74.9,361
+2024,Goa,Margao,33,18,12,6,69,85.6,359
+2025,Goa,Margao,43,17,18,8,86,70.5,1321
+2021,Gujarat,Ahmedabad,88,42,31,18,179,81.3,1328
+2022,Gujarat,Ahmedabad,134,65,30,32,261,43.9,2099
+2023,Gujarat,Ahmedabad,162,77,44,45,328,80.4,4647
+2024,Gujarat,Ahmedabad,205,101,66,56,428,61.6,2753
+2025,Gujarat,Ahmedabad,270,100,124,51,545,54.1,6509
+2021,Gujarat,Surat,27,11,12,7,57,79.5,737
+2022,Gujarat,Surat,41,19,11,10,81,63.9,979
+2023,Gujarat,Surat,49,29,17,11,106,46.7,1174
+2024,Gujarat,Surat,68,29,15,15,127,44.1,1003
+2025,Gujarat,Surat,80,43,26,17,166,48.7,1800
+2021,Gujarat,Vadodara,28,13,5,6,52,55.4,793
+2022,Gujarat,Vadodara,34,15,12,7,68,83.8,444
+2023,Gujarat,Vadodara,40,18,14,12,84,79.6,963
+2024,Gujarat,Vadodara,53,28,14,12,107,55.3,948
+2025,Gujarat,Vadodara,71,25,22,17,135,63.8,1013
+2021,Gujarat,Rajkot,53,21,16,10,100,58.3,668
+2022,Gujarat,Rajkot,65,30,24,20,139,52.0,1332
+2023,Gujarat,Rajkot,98,47,8,19,172,56.4,1595
+2024,Gujarat,Rajkot,105,40,40,24,209,50.4,2840
+2025,Gujarat,Rajkot,122,72,29,35,258,47.9,3795
+2021,Haryana,Gurugram,22,9,4,5,40,55.8,259
+2022,Haryana,Gurugram,31,12,8,8,59,68.7,794
+2023,Haryana,Gurugram,35,17,17,9,78,65.6,395
+2024,Haryana,Gurugram,43,19,15,12,89,44.2,592
+2025,Haryana,Gurugram,67,23,16,12,118,48.0,592
+2021,Haryana,Faridabad,18,9,8,3,38,64.0,536
+2022,Haryana,Faridabad,25,12,6,4,47,40.8,281
+2023,Haryana,Faridabad,35,12,11,8,66,43.3,665
+2024,Haryana,Faridabad,41,21,7,11,80,45.4,495
+2025,Haryana,Faridabad,55,24,11,13,103,59.2,1043
+2021,Haryana,Panipat,11,5,5,3,24,43.7,214
+2022,Haryana,Panipat,17,6,5,4,32,75.6,198
+2023,Haryana,Panipat,23,8,4,6,41,85.7,302
+2024,Haryana,Panipat,28,12,6,4,50,72.5,275
+2025,Haryana,Panipat,37,14,8,9,68,75.1,811
+2021,Himachal Pradesh,Shimla,16,8,9,3,36,67.7,513
+2022,Himachal Pradesh,Shimla,30,10,9,4,53,63.8,747
+2023,Himachal Pradesh,Shimla,32,13,18,5,68,48.0,714
+2024,Himachal Pradesh,Shimla,45,15,13,7,80,74.2,1014
+2025,Himachal Pradesh,Shimla,50,29,13,14,106,75.4,1676
+2021,Himachal Pradesh,Solan,8,4,5,2,19,77.0,224
+2022,Himachal Pradesh,Solan,12,5,7,2,26,53.1,354
+2023,Himachal Pradesh,Solan,17,7,7,4,35,55.8,234
+2024,Himachal Pradesh,Solan,21,9,7,3,40,46.2,482
+2025,Himachal Pradesh,Solan,29,10,9,8,56,70.2,356
+2021,Jharkhand,Ranchi,21,9,7,5,42,41.5,645
+2022,Jharkhand,Ranchi,35,13,8,7,63,62.5,693
+2023,Jharkhand,Ranchi,36,21,15,10,82,47.3,1066
+2024,Jharkhand,Ranchi,49,23,14,11,97,62.4,911
+2025,Jharkhand,Ranchi,69,28,20,15,132,55.7,1365
+2021,Jharkhand,Jamshedpur,31,12,14,7,64,68.5,472
+2022,Jharkhand,Jamshedpur,42,24,9,11,86,41.1,795
+2023,Jharkhand,Jamshedpur,62,27,11,11,111,81.6,708
+2024,Jharkhand,Jamshedpur,69,27,34,15,145,56.7,939
+2025,Jharkhand,Jamshedpur,84,40,34,13,171,67.6,2066
+2021,Jharkhand,Dhanbad,21,7,5,5,38,72.9,546
+2022,Jharkhand,Dhanbad,28,9,12,5,54,48.0,525
+2023,Jharkhand,Dhanbad,33,18,6,9,66,81.6,818
+2024,Jharkhand,Dhanbad,42,21,12,7,82,69.6,1232
+2025,Jharkhand,Dhanbad,57,31,14,12,114,54.5,1714
+2021,Karnataka,Bengaluru,70,32,8,13,123,64.2,1156
+2022,Karnataka,Bengaluru,92,41,33,18,184,72.8,1085
+2023,Karnataka,Bengaluru,119,50,18,24,211,72.3,3272
+2024,Karnataka,Bengaluru,148,51,49,33,281,57.8,2453
+2025,Karnataka,Bengaluru,211,76,28,51,366,89.2,2296
+2021,Karnataka,Mysuru,32,18,13,8,71,42.3,561
+2022,Karnataka,Mysuru,57,22,19,9,107,59.7,737
+2023,Karnataka,Mysuru,73,35,12,18,138,83.4,1781
+2024,Karnataka,Mysuru,87,31,25,18,161,73.8,878
+2025,Karnataka,Mysuru,117,41,35,27,220,82.8,2194
+2021,Karnataka,Hubballi,48,23,6,11,88,74.3,583
+2022,Karnataka,Hubballi,70,25,16,14,125,49.4,1941
+2023,Karnataka,Hubballi,77,45,31,19,172,78.7,2009
+2024,Karnataka,Hubballi,97,42,38,27,204,74.6,1824
+2025,Karnataka,Hubballi,121,67,35,30,253,70.2,1984
+2021,Karnataka,Mangaluru,82,34,12,15,143,77.5,1574
+2022,Karnataka,Mangaluru,105,39,39,16,199,52.7,2395
+2023,Karnataka,Mangaluru,129,69,49,32,279,80.3,2313
+2024,Karnataka,Mangaluru,200,72,43,37,352,78.1,2584
+2025,Karnataka,Mangaluru,217,121,58,53,449,59.0,4019
+2021,Kerala,Thiruvananthapuram,24,12,6,6,48,55.7,407
+2022,Kerala,Thiruvananthapuram,28,11,14,6,59,63.9,805
+2023,Kerala,Thiruvananthapuram,42,22,11,7,82,79.1,1016
+2024,Kerala,Thiruvananthapuram,54,23,15,10,102,87.1,1276
+2025,Kerala,Thiruvananthapuram,67,25,21,14,127,52.3,727
+2021,Kerala,Kochi,35,14,20,6,75,48.1,1168
+2022,Kerala,Kochi,47,26,20,9,102,47.3,1541
+2023,Kerala,Kochi,77,29,26,14,146,72.4,836
+2024,Kerala,Kochi,85,30,32,20,167,55.5,2463
+2025,Kerala,Kochi,111,55,16,29,211,53.9,1055
+2021,Kerala,Kozhikode,52,27,8,12,99,66.8,926
+2022,Kerala,Kozhikode,71,27,13,18,129,80.3,1577
+2023,Kerala,Kozhikode,94,40,25,16,175,43.1,2680
+2024,Kerala,Kozhikode,97,39,48,25,209,87.8,1417
+2025,Kerala,Kozhikode,139,63,41,27,270,78.3,3802
+2021,Madhya Pradesh,Indore,23,12,7,4,46,81.6,722
+2022,Madhya Pradesh,Indore,32,12,9,7,60,81.3,586
+2023,Madhya Pradesh,Indore,41,17,14,7,79,65.3,528
+2024,Madhya Pradesh,Indore,46,21,22,11,100,86.3,786
+2025,Madhya Pradesh,Indore,61,25,35,12,133,84.7,1651
+2021,Madhya Pradesh,Bhopal,10,4,8,1,23,63.3,301
+2022,Madhya Pradesh,Bhopal,15,7,2,4,28,69.5,253
+2023,Madhya Pradesh,Bhopal,18,9,7,5,39,68.5,254
+2024,Madhya Pradesh,Bhopal,22,12,8,5,47,86.4,676
+2025,Madhya Pradesh,Bhopal,32,15,9,7,63,79.3,919
+2021,Madhya Pradesh,Jabalpur,14,7,3,3,27,42.5,157
+2022,Madhya Pradesh,Jabalpur,20,7,10,3,40,57.8,620
+2023,Madhya Pradesh,Jabalpur,21,9,11,6,47,43.7,472
+2024,Madhya Pradesh,Jabalpur,32,14,11,9,66,59.8,488
+2025,Madhya Pradesh,Jabalpur,40,20,8,8,76,84.3,1038
+2021,Maharashtra,Mumbai,109,42,51,23,225,56.9,1166
+2022,Maharashtra,Mumbai,183,74,34,28,319,58.4,2861
+2023,Maharashtra,Mumbai,216,88,72,46,422,65.2,4492
+2024,Maharashtra,Mumbai,274,110,35,64,483,68.6,3632
+2025,Maharashtra,Mumbai,341,142,110,96,689,65.5,10142
+2021,Maharashtra,Pune,41,16,18,12,87,59.3,685
+2022,Maharashtra,Pune,61,33,18,17,129,57.4,706
+2023,Maharashtra,Pune,83,35,18,19,155,55.3,1150
+2024,Maharashtra,Pune,113,51,14,24,202,66.1,2863
+2025,Maharashtra,Pune,130,53,37,38,258,55.1,4023
+2021,Maharashtra,Nagpur,38,21,17,8,84,52.8,536
+2022,Maharashtra,Nagpur,57,31,12,14,114,41.7,1598
+2023,Maharashtra,Nagpur,74,29,27,12,142,74.5,1297
+2024,Maharashtra,Nagpur,85,33,37,16,171,61.6,895
+2025,Maharashtra,Nagpur,103,50,48,26,227,89.1,1479
+2021,Maharashtra,Nashik,85,49,31,24,189,51.3,1824
+2022,Maharashtra,Nashik,115,48,49,29,241,42.2,2471
+2023,Maharashtra,Nashik,179,79,15,40,313,84.1,3152
+2024,Maharashtra,Nashik,191,104,56,43,394,45.8,3160
+2025,Maharashtra,Nashik,288,148,40,62,538,73.0,4556
+2021,Maharashtra,Chhatrapati Sambhajinagar,89,37,50,17,193,58.9,2649
+2022,Maharashtra,Chhatrapati Sambhajinagar,119,52,54,26,251,77.5,2641
+2023,Maharashtra,Chhatrapati Sambhajinagar,187,84,30,27,328,53.3,3304
+2024,Maharashtra,Chhatrapati Sambhajinagar,205,108,63,64,440,55.9,4876
+2025,Maharashtra,Chhatrapati Sambhajinagar,322,146,45,48,561,72.4,3388
+2021,Manipur,Imphal,21,11,9,6,47,63.5,638
+2022,Manipur,Imphal,30,17,11,7,65,61.7,767
+2023,Manipur,Imphal,44,23,10,7,84,52.3,1219
+2024,Manipur,Imphal,53,28,24,11,116,49.5,1257
+2025,Manipur,Imphal,72,36,7,19,134,62.3,1342
+2021,Meghalaya,Shillong,15,8,7,2,32,67.7,332
+2022,Meghalaya,Shillong,20,11,7,5,43,78.8,495
+2023,Meghalaya,Shillong,29,14,6,4,53,74.9,542
+2024,Meghalaya,Shillong,36,13,14,6,69,56.5,960
+2025,Meghalaya,Shillong,43,21,8,11,83,64.5,912
+2021,Mizoram,Aizawl,26,15,10,7,58,56.3,312
+2022,Mizoram,Aizawl,36,18,13,8,75,45.6,1128
+2023,Mizoram,Aizawl,53,21,12,11,97,66.2,531
+2024,Mizoram,Aizawl,65,31,6,17,119,62.8,1401
+2025,Mizoram,Aizawl,92,31,31,14,168,65.5,970
+2021,Nagaland,Dimapur,11,6,3,2,22,71.4,158
+2022,Nagaland,Dimapur,13,5,7,2,27,62.9,218
+2023,Nagaland,Dimapur,19,9,3,4,35,82.2,545
+2024,Nagaland,Dimapur,22,12,8,6,48,59.5,323
+2025,Nagaland,Dimapur,34,16,2,8,60,73.2,380
+2021,Nagaland,Kohima,8,3,6,2,19,55.1,226
+2022,Nagaland,Kohima,14,7,3,3,27,42.9,284
+2023,Nagaland,Kohima,16,7,6,4,33,70.4,200
+2024,Nagaland,Kohima,24,10,3,5,42,75.4,611
+2025,Nagaland,Kohima,25,14,10,5,54,84.5,697
+2021,Odisha,Bhubaneswar,24,11,3,5,43,53.9,565
+2022,Odisha,Bhubaneswar,28,14,6,8,56,49.1,287
+2023,Odisha,Bhubaneswar,36,19,10,7,72,51.9,556
+2024,Odisha,Bhubaneswar,50,17,14,7,88,70.0,636
+2025,Odisha,Bhubaneswar,59,32,17,11,119,74.3,1450
+2021,Odisha,Cuttack,17,7,4,3,31,44.9,287
+2022,Odisha,Cuttack,21,10,5,5,41,63.7,257
+2023,Odisha,Cuttack,24,9,13,6,52,62.8,828
+2024,Odisha,Cuttack,35,14,9,8,66,55.6,433
+2025,Odisha,Cuttack,47,20,12,7,86,64.9,760
+2021,Odisha,Rourkela,24,10,6,3,43,48.0,243
+2022,Odisha,Rourkela,28,10,15,6,59,45.7,323
+2023,Odisha,Rourkela,44,15,15,8,82,50.7,1198
+2024,Odisha,Rourkela,55,24,7,14,100,71.1,605
+2025,Odisha,Rourkela,72,34,10,11,127,80.2,1245
+2021,Punjab,Ludhiana,36,15,8,6,65,56.8,789
+2022,Punjab,Ludhiana,36,17,20,8,81,48.9,641
+2023,Punjab,Ludhiana,48,26,23,11,108,42.2,909
+2024,Punjab,Ludhiana,82,35,17,11,145,51.7,803
+2025,Punjab,Ludhiana,93,42,24,20,179,87.6,1671
+2021,Punjab,Amritsar,31,15,13,8,67,44.2,833
+2022,Punjab,Amritsar,50,22,9,7,88,58.8,668
+2023,Punjab,Amritsar,61,25,16,11,113,68.5,1435
+2024,Punjab,Amritsar,79,38,17,12,146,57.2,1386
+2025,Punjab,Amritsar,81,39,37,24,181,67.8,1987
+2021,Punjab,Jalandhar,20,7,5,3,35,68.9,379
+2022,Punjab,Jalandhar,22,8,11,4,45,43.8,615
+2023,Punjab,Jalandhar,28,14,7,6,55,50.2,421
+2024,Punjab,Jalandhar,34,13,17,5,69,81.0,419
+2025,Punjab,Jalandhar,45,23,21,9,98,70.9,560
+2021,Rajasthan,Jaipur,13,6,8,3,30,66.4,295
+2022,Rajasthan,Jaipur,18,10,5,5,38,51.4,213
+2023,Rajasthan,Jaipur,26,15,10,4,55,50.7,493
+2024,Rajasthan,Jaipur,38,17,8,6,69,48.1,573
+2025,Rajasthan,Jaipur,42,17,16,7,82,66.8,793
+2021,Rajasthan,Jodhpur,23,11,3,4,41,79.6,345
+2022,Rajasthan,Jodhpur,31,15,3,6,55,53.0,406
+2023,Rajasthan,Jodhpur,38,15,10,6,69,52.6,838
+2024,Rajasthan,Jodhpur,43,18,21,8,90,46.4,1058
+2025,Rajasthan,Jodhpur,50,26,19,12,107,51.3,1130
+2021,Rajasthan,Udaipur,16,8,9,4,37,68.8,507
+2022,Rajasthan,Udaipur,25,8,10,5,48,47.9,572
+2023,Rajasthan,Udaipur,34,14,10,5,63,74.6,498
+2024,Rajasthan,Udaipur,38,19,13,8,78,47.3,439
+2025,Rajasthan,Udaipur,49,24,19,11,103,55.5,1055
+2021,Sikkim,Gangtok,8,4,3,2,17,76.7,143
+2022,Sikkim,Gangtok,10,4,7,2,23,68.4,214
+2023,Sikkim,Gangtok,15,7,6,4,32,44.7,431
+2024,Sikkim,Gangtok,20,8,6,3,37,50.4,480
+2025,Sikkim,Gangtok,27,13,6,4,50,59.1,653
+2021,Tamil Nadu,Chennai,113,42,49,18,222,69.0,1839
+2022,Tamil Nadu,Chennai,139,68,64,31,302,51.1,3291
+2023,Tamil Nadu,Chennai,186,94,36,55,371,82.9,3051
+2024,Tamil Nadu,Chennai,273,115,54,69,511,49.1,5895
+2025,Tamil Nadu,Chennai,348,147,39,73,607,82.7,6032
+2021,Tamil Nadu,Coimbatore,75,30,21,16,142,55.3,2268
+2022,Tamil Nadu,Coimbatore,86,48,26,15,175,72.8,1372
+2023,Tamil Nadu,Coimbatore,137,70,26,20,253,56.2,3297
+2024,Tamil Nadu,Coimbatore,155,66,36,37,294,54.0,2086
+2025,Tamil Nadu,Coimbatore,177,69,77,53,376,59.8,5724
+2021,Tamil Nadu,Madurai,43,15,13,9,80,41.3,1149
+2022,Tamil Nadu,Madurai,54,31,20,10,115,77.0,1087
+2023,Tamil Nadu,Madurai,81,29,25,15,150,68.2,1823
+2024,Tamil Nadu,Madurai,89,34,34,21,178,81.0,2612
+2025,Tamil Nadu,Madurai,109,62,44,28,243,68.1,1794
+2021,Tamil Nadu,Salem,20,8,6,4,38,81.9,408
+2022,Tamil Nadu,Salem,25,10,14,5,54,82.8,578
+2023,Tamil Nadu,Salem,36,13,16,7,72,71.4,1146
+2024,Tamil Nadu,Salem,46,17,10,10,83,58.3,735
+2025,Tamil Nadu,Salem,58,29,16,11,114,66.9,1175
+2021,Telangana,Hyderabad,50,22,10,12,94,59.9,1041
+2022,Telangana,Hyderabad,65,22,24,12,123,41.6,917
+2023,Telangana,Hyderabad,91,36,19,14,160,80.1,2102
+2024,Telangana,Hyderabad,105,46,35,16,202,50.3,1983
+2025,Telangana,Hyderabad,123,58,43,35,259,74.1,1650
+2021,Telangana,Warangal,18,8,8,4,38,51.4,597
+2022,Telangana,Warangal,23,10,11,7,51,54.4,651
+2023,Telangana,Warangal,37,15,6,9,67,71.7,549
+2024,Telangana,Warangal,42,21,14,9,86,45.9,978
+2025,Telangana,Warangal,64,21,18,11,114,50.4,1769
+2021,Telangana,Nizamabad,21,8,8,3,40,64.5,493
+2022,Telangana,Nizamabad,27,10,6,5,48,41.5,492
+2023,Telangana,Nizamabad,35,18,6,10,69,42.1,896
+2024,Telangana,Nizamabad,46,22,8,13,89,70.7,730
+2025,Telangana,Nizamabad,58,21,20,11,110,60.0,1304
+2021,Tripura,Agartala,19,6,6,3,34,66.2,255
+2022,Tripura,Agartala,21,10,6,4,41,74.5,565
+2023,Tripura,Agartala,30,13,5,6,54,59.0,286
+2024,Tripura,Agartala,37,19,8,6,70,44.4,622
+2025,Tripura,Agartala,50,17,13,11,91,61.2,456
+2021,Uttar Pradesh,Lucknow,100,56,31,31,218,40.6,2998
+2022,Uttar Pradesh,Lucknow,166,78,20,42,306,58.6,3021
+2023,Uttar Pradesh,Lucknow,210,101,45,35,391,76.0,5721
+2024,Uttar Pradesh,Lucknow,221,114,65,46,446,62.0,6879
+2025,Uttar Pradesh,Lucknow,289,118,142,54,603,54.0,4412
+2021,Uttar Pradesh,Kanpur,64,30,8,10,112,40.3,995
+2022,Uttar Pradesh,Kanpur,79,36,13,18,146,56.5,1564
+2023,Uttar Pradesh,Kanpur,95,45,43,20,203,85.3,1914
+2024,Uttar Pradesh,Kanpur,139,49,53,21,262,64.3,2889
+2025,Uttar Pradesh,Kanpur,165,90,43,33,331,78.7,2722
+2021,Uttar Pradesh,Agra,32,15,8,7,62,39.4,476
+2022,Uttar Pradesh,Agra,41,19,7,10,77,73.2,1204
+2023,Uttar Pradesh,Agra,57,27,7,9,100,58.6,1139
+2024,Uttar Pradesh,Agra,68,31,17,20,136,68.0,2093
+2025,Uttar Pradesh,Agra,96,40,24,14,174,62.9,2115
+2021,Uttar Pradesh,Varanasi,34,20,12,8,74,44.3,704
+2022,Uttar Pradesh,Varanasi,51,22,16,15,104,60.8,1348
+2023,Uttar Pradesh,Varanasi,60,23,31,17,131,52.0,873
+2024,Uttar Pradesh,Varanasi,83,36,25,21,165,44.7,1197
+2025,Uttar Pradesh,Varanasi,103,42,41,23,209,51.2,3107
+2021,Uttarakhand,Dehradun,12,5,7,2,26,54.5,343
+2022,Uttarakhand,Dehradun,17,8,8,4,37,71.5,232
+2023,Uttarakhand,Dehradun,21,8,13,3,45,51.3,465
+2024,Uttarakhand,Dehradun,27,13,13,4,57,81.9,718
+2025,Uttarakhand,Dehradun,35,17,15,10,77,70.8,586
+2021,Uttarakhand,Haridwar,25,11,10,8,54,76.1,685
+2022,Uttarakhand,Haridwar,35,13,16,5,69,81.3,1093
+2023,Uttarakhand,Haridwar,49,24,13,10,96,72.6,1321
+2024,Uttarakhand,Haridwar,58,26,15,15,114,86.4,1490
+2025,Uttarakhand,Haridwar,69,32,35,14,150,76.5,1657
+2021,West Bengal,Kolkata,46,23,19,12,100,78.8,1366
+2022,West Bengal,Kolkata,65,36,20,19,140,50.2,976
+2023,West Bengal,Kolkata,88,43,25,19,175,58.4,1031
+2024,West Bengal,Kolkata,126,44,18,31,219,76.1,1723
+2025,West Bengal,Kolkata,150,58,29,37,274,75.2,4077
+2021,West Bengal,Howrah,12,5,6,3,26,73.8,290
+2022,West Bengal,Howrah,16,7,9,4,36,61.3,318
+2023,West Bengal,Howrah,24,9,12,5,50,75.0,657
+2024,West Bengal,Howrah,31,14,14,5,64,62.4,393
+2025,West Bengal,Howrah,36,16,14,10,76,55.3,1202
+2021,West Bengal,Siliguri,22,10,10,5,47,56.4,494
+2022,West Bengal,Siliguri,36,12,13,7,68,63.5,1074
+2023,West Bengal,Siliguri,39,21,16,11,87,82.1,803
+2024,West Bengal,Siliguri,52,25,18,8,103,82.3,1176
+2025,West Bengal,Siliguri,66,36,32,11,145,85.6,908
